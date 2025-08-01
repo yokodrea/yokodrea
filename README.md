@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yokodrea&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/yokodrea/yokodreaE/blob/output/github-snake-dark.svg)
 
-![Snake animation](https://github.com/yokodrea/yokodrea/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 
 
