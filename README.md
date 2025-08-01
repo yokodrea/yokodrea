@@ -1,4 +1,4 @@
-## Yahaoo!! guys I'm sabarish 👋
+# Yahaoo!! guys I'm sabarish 👋
 
 <!--
 **yokodrea/yokodrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-# hyy guys I'm Sabarish 
+ 
 
 
 🔭 I’m currently working on agentic tools like **MINA-AI**, an intelligent CLI pentester <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
