@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
+
+# hyy guys I'm Sabarish 
+
+
 🔭 I’m currently working on agentic tools like **MINA-AI**, an intelligent CLI pentester <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
