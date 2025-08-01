@@ -14,15 +14,28 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
+🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+✉️  You can shoot me an email  I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 -->
 
 # 💫 About Me:
 
  
 
-
-🔭 I’m currently working on agentic tools like **MINA-AI**, an intelligent CLI pentester <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👨‍💻Heyy Guys!, I’m Sabarish — but in the developer world, I go by **Yoko** ✨ <br>
+🌱 I’m currently sharpening my skills in DSA, LLMs, and practical ML through real-world projects.<br>
+💬 Open for meaningful collabs, pro bono work, or just a good convo related to anything feel free to reach out.<br>
+✨ Who are your friends?  <br>
+<q> Just some fellow travelers on this journey we call life.  <q><br>
+🤝 I’m looking for fellow travelers on this journey we call life<br>
+Let’s build something meaningful together.
 
 
 ## 🌐 Socials:
