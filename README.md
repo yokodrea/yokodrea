@@ -35,4 +35,9 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=yokodrea&icon=0&color=11)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+
+![GitHub Snake dark](https://raw.githubusercontent.com/yokodrea/yokodrea/output/github-contribution-grid-snake.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
