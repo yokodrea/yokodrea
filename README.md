@@ -29,13 +29,25 @@ Here are some ideas to get you started:
 
  
 
-👨‍💻Heyy Guys!, I’m Sabarish — but in the developer world, I go by **Yoko** ✨ <br>
+🪄Heyy Guys!, I’m Sabarish — but in the developer realm, I go by **Yoko** ✨ <br>
+
+🎯 **Vision**: *To simplify lives by building meaningful tools that leverage technology to solve real-world problems.*<br>
+
+🚀 **Mission**: *To make the impossible possible — crafting miracles in this so-called reality.*<br>
+
+
+
 🌱 I’m currently sharpening my skills in DSA, LLMs, and practical ML through real-world projects.<br>
+
 💬 Open for meaningful collabs, pro bono work, or just a good convo related to anything feel free to reach out.<br>
+
 ✨ Who are your friends?  <br>
-<q> Just some fellow travelers on this journey we call life.  <q><br>
+
+ *Just some fellow travelers on this journey we call life.*  <br>
+ 
 🤝 I’m looking for fellow travelers on this journey we call life<br>
-Let’s build something meaningful together.
+
+🛠️Let’s build something meaningful together.
 
 
 ## 🌐 Socials:
