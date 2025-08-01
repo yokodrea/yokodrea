@@ -70,7 +70,7 @@ jobs:
 
             dist/github-snake.svg
 
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-dark
 
             # dist/ocean.gif?color_snake=#8A2BE2&color_dots=#DCDCDC,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
