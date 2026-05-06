@@ -23,13 +23,16 @@ Here are some ideas to get you started:
 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 ✉️  You can shoot me an email  I'll try to respond as soon as I can.
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+
+🪄Heyy Guys!, I’m Sabarish — but in the developer realm, I go by **Yoko** ✨
+
 -->
 
 # 💫 About Me:
 
  
 
-🪄Heyy Guys!, I’m Sabarish — but in the developer realm, I go by **Yoko** ✨ <br>
+
 
 🎯 **Vision**: *To simplify lives by building meaningful tools that leverage technology to solve real-world problems.*<br>
 
